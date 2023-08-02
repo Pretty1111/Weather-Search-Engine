@@ -1,4 +1,8 @@
 # Weather-Search-Engine
+Check out the live version of the Weather Search Engine [here](https://spectacular-peony-c38663.netlify.app/).
+Remember to get an API Key from [OpenWeather](https://openweathermap.org/). This will be used for a functional JavaScript.
+
+## Overview
 
 This project is a simple weather app that allows users to check the weather information for a specific city. The app displays the current temperature, precipitation percentage, and wind speed for the selected city. Additionally, users can search for different cities, view the weather in Celsius or Fahrenheit, and even get weather updates based on their current location.
 
@@ -43,6 +47,6 @@ The weather app is open-source and released under the [MIT License](https://open
 
 ---
 
-For more details, check out the live version of the weather app [here](https://spectacular-peony-c38663.netlify.app/). Thank you for using our weather app! If you have any questions or feedback, feel free to reach out.
+Thank you for using our weather app! If you have any questions or feedback, feel free to reach out to the developer at prettykaribo@gmail.com
 
 _Enjoy exploring the world's weather!_
